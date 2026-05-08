@@ -47,7 +47,7 @@ Agent_Executor=AgentExecutor(
     handle_parsing_errors=True
 )
 def plan_trip():
-    print(" Welcome to Manan Travel Planner \n")
+    print(" Welcome to Dhruv Travel Planner \n")
 
     origin = input("Enter your origin city: ")
     destination = input("Enter your destination city: ")
